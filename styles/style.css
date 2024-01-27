@@ -1,0 +1,30 @@
+.navbar {
+    justify-content: space-around;
+}
+
+.container {
+    flex-direction: row; 
+}
+
+.col {
+    justify-content:space-around
+}
+
+.row-cols-lg-6>* {
+    flex: 0 0 auto;
+    width: 50%;
+    height: 45%;
+}
+
+.btn {
+    background-color: #5222D0;
+}
+
+.card-img-top {
+    width: 20%;
+}
+.btn {
+    width: 50%;
+    border-radius: 30px;
+}
+
